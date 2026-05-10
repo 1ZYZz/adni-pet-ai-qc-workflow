@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+*.log
+
+# Local/private ADNI source data - do not publish
+/adni_tables/
+/data/adni_tables/
+raw_data/
+private_data/
+*_locked*.xlsx
+dataset_master_locked*.xlsx
+UCBERKELEY*.csv
+UCSFFSX*.csv
+ADNI*.csv
+
+# Derived individual-level tables - do not publish unless your data-use agreement allows it
+SUVR_region_table*.csv
+Zscore_table*.csv
+QC_features*.csv
+processing_log*.csv
+match_debug_report*.csv
+table_preview_report.xlsx
+table_column_report.csv
+results_summary.xlsx
+
+# Manuscript drafts / submission files
+*.docx
+*.pdf
+MIC2026_ADNI_Submission_Package*/
+MIC2026_ADNI_Submission_Package*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

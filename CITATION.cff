@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the associated manuscript once published."
+title: "Standardized Multi-Tracer Brain PET Quantification and AI-Assisted Quality Control in an RWE Imaging Software Platform"
+authors:
+  - family-names: Zhong
+    given-names: Yueru
+  - family-names: Lin
+    given-names: Boheng
+  - family-names: Wu
+    given-names: Penghao
+  - family-names: Wan
+    given-names: Lin
+  - family-names: Xie
+    given-names: Qingguo
+year: 2026
+repository-code: "https://github.com/OWNER/REPOSITORY"

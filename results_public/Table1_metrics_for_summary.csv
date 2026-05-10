@@ -1,0 +1,13 @@
+﻿Metric,Value
+PET processing units in log,90.0
+Successful PET processing units,90.0
+Failed PET processing units,0.0
+Processing success rate (%),100.0
+Region-level SUVR rows,9734.0
+Unique subjects with SUVR,30.0
+Unique scans with SUVR,90.0
+Unique regions,167.0
+QC pass scans,55.0
+QC review scans,35.0
+Region-level Z-score rows,9734.0
+Max absolute robust Z,18.49

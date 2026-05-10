@@ -1,0 +1,8 @@
+Choose a license before making the repository public.
+
+Recommended for reusable academic code:
+- MIT License: permissive and simple.
+- BSD-3-Clause: permissive with a non-endorsement clause.
+- No license: others may view the code on GitHub, but reuse/modification rights are not clearly granted.
+
+Do not apply an open-source license to ADNI data or third-party data files. The license should cover only your own code and documentation.
