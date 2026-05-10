@@ -4,7 +4,6 @@ This repository contains a reproducible table-based workflow for standardized mu
 
 The workflow supports FDG, amyloid, and tau PET regional SUVR tables, builds a unified long-format SUVR table, computes tracer-region robust Z-scores, and generates scan-level QC labels and ranked regional drivers.
 
-> Public-release note: This repository is designed to contain code, documentation, and synthetic example data only. Do **not** upload raw ADNI tables, locked cohort spreadsheets, scan dates, subject identifiers, individual-level derived SUVR/Z-score tables, or manuscript drafts unless your data-use agreement and journal policy explicitly allow it.
 
 ## Repository layout
 
